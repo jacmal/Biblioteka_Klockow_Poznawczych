@@ -1,4 +1,4 @@
-# Klocek Poznawczy #1: Łańcuch Myśli (Chain-of-Thought - CoT)
+# Klocek Poznawczy 1: Łańcuch Myśli (Chain-of-Thought - CoT) 🧠
 
 -----
 
