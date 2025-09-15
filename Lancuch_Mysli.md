@@ -1,10 +1,10 @@
-Klocek Poznawczy #1: Łańcuch Myśli (Chain-of-Thought - CoT)
+# Klocek Poznawczy #1: Łańcuch Myśli (Chain-of-Thought - CoT)
 
-1. Nazwa Koncepcyjna: Łańcuch Myśli (Chain-of-Thought - CoT) 
+## 1. Nazwa Koncepcyjna: Łańcuch Myśli (Chain-of-Thought - CoT) 
 
-2. Cel i Zastosowanie: Zwiększenie dokładności i logicznej spójności rozumowania, szczególnie w problemach wymagających wielu kroków. Uczynienie procesu wnioskowania transparentnym, audytowalnym i umożliwiającym samokorektę w trakcie generowania. Idealny do problemów matematycznych, planowania, debugowania i analizy przyczynowo-skutkowej. 
+## 2. Cel i Zastosowanie: Zwiększenie dokładności i logicznej spójności rozumowania, szczególnie w problemach wymagających wielu kroków. Uczynienie procesu wnioskowania transparentnym, audytowalnym i umożliwiającym samokorektę w trakcie generowania. Idealny do problemów matematycznych, planowania, debugowania i analizy przyczynowo-skutkowej. 
 
-3. Struktura Aktywacyjna (Prompt):
+## 3. Struktura Aktywacyjna (Prompt):
 Opis: Aktywacja polega na jawnym zażądaniu sekwencyjnego procesu myślowego.
 Szablon Promptu (v1.0):
 Problem do rozwiązania: {opis_problemu}
