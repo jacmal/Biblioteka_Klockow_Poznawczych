@@ -5,7 +5,7 @@
 ## Spis Treści
 
 ### 1. Wzorce Fundamentalne
-* Łańcuch Myśli (Chain-of-Thought - CoT)
+* **[Łańcuch Myśli (Chain-of-Thought - CoT)](.\1_Lancuch_Mysli.md)**
 * Myślenie od Podstaw (First-Principles Thinking)
 * Myślenie Rozbieżne (Divergent Thinking)
 * Myślenie Zbieżne (Convergent Thinking)
