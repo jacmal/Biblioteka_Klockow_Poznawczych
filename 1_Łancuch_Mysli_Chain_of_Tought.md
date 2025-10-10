@@ -43,20 +43,19 @@ Twoim zadaniem jest rozwiązanie powyższego problemu, stosując metodę Łańcu
 
 ## 🌊 Diagram Przepływu Myślowego
 
-Proces Łańcucha Myśli można zwizualizować jako liniowy, sekwencyjny przepływ, gdzie każdy krok buduje na poprzednim.
+Proces ten można zwizualizować jako diament – najpierw zawężamy złożony problem do jego esencji, a następnie rozszerzamy myślenie, budując na tej esencji nowe rozwiązania.
 
 ```mermaid
 graph TD
-    A["❓<br>Zdefiniowany Problem"] --> B["1️⃣<br>Krok 1: Analiza danych wejściowych"];
-    B -- "Wniosek 1" --> C["2️⃣<br>Krok 2: Wykonanie pierwszej operacji"];
-    C -- "Wniosek 2" --> D["3️⃣<br>Krok 3: Wykonanie kolejnej operacji"];
-    D -- "..." --> E["🏁<br>Ostateczna Konkluzja"];
-    E --> F["✅<br>Finalna, Zwięzła Odpowiedź"];
+    A["Complex Problem<br>(Powszechne Rozwiązanie)"] --> B{"Krok 1:<br>Kwestionowanie Założeń"};
+    B --> C["⚛️<br>Krok 2: Dekonstrukcja do Prawd Fundamentalnych"];
+    C -- "Nowy, solidny fundament" --> D{"Krok 3:<br>Rekonstrukcja od Zera"};
+    D --> E["💡<br>Innowacyjne, Nowe Rozwiązanie"];
 
-    style A fill:#FDF2E9,stroke:#333,stroke-width:2px
-    style F fill:#D5F5E3,stroke:#333,stroke-width:2px
-````
-
+    style A fill:#FADBD8,stroke:#333,stroke-width:2px
+    style C fill:#D6EAF8,stroke:#333,stroke-width:4px
+    style E fill:#D5F5E3,stroke:#333,stroke-width:2px
+```
 ## 🚧 Anty-wzorce i Pułapki
 
 Stosowanie CoT, choć potężne, niesie ze sobą ryzyka. Oto najczęstsze błędy:
