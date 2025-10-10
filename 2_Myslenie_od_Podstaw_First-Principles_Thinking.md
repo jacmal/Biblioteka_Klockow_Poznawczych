@@ -61,7 +61,7 @@ graph TD
     style E fill:#D5F5E3,stroke:#333,stroke-width:2px
 ```
 
-🚧 Anty-wzorce i Pułapki
+## 🚧 Anty-wzorce i Pułapki
 Myślenie od Podstaw jest potężne, ale wymaga dyscypliny, aby uniknąć typowych pułapek:
 
 Paraliż przez Analizę: Ugrzęźnięcie w fazie dekonstrukcji. Niekończące się rozkładanie problemu na coraz mniejsze części bez przejścia do kluczowej fazy rekonstrukcji.
@@ -70,14 +70,14 @@ Ignorowanie Rzeczywistości: Stworzenie teoretycznie genialnego rozwiązania, kt
 
 Błędne Fundamenty: Oparcie całej rekonstrukcji na "fundamentalnej prawdzie", która w rzeczywistości jest nieprawdziwa lub niekompletna. Wytrzymałość budynku zależy od solidności jego fundamentów.
 
-✅ Pytania Kontrolne Architekta
+## ✅ Pytania Kontrolne Architekta
 Zanim zdecydujesz się na tę metodę, odpowiedz sobie na te pytania:
 
 Czy naprawdę zidentyfikowałem wszystkie kluczowe założenia? Czy sięgnąłem głębiej niż tylko do tych najbardziej oczywistych, powierzchownych przekonań?
 Czy moje "pierwsze zasady" są naprawdę niepodważalne? Czy potrafię je obronić jako fundamentalne prawdy, czy są to po prostu mniej popularne, ale wciąż tylko założenia?
 Czy jestem gotów odrzucić obecne rozwiązanie w całości? Ta metoda wymaga intelektualnej odwagi, by zacząć od pustej kartki, co nie zawsze jest konieczne lub pożądane.
 
-🔗 Relacje i Kombinacje
+## 🔗 Relacje i Kombinacje
 
 Synergia:
 KM-003 (Myślenie Rozbieżne): Faza rekonstrukcji to w istocie zastosowanie Myślenia Rozbieżnego na nowym, solidnym fundamencie zbudowanym z pierwszych zasad.
@@ -86,7 +86,7 @@ KM-001 (Łańcuch Myśli): Może być użyty do zdyscyplinowanego przeprowadzeni
 Alternatywa:
 KM-007 (Myślenie przez Analogię): To dwa przeciwstawne bieguny rozwiązywania problemów. Myślenie od Podstaw tworzy nowe kategorie, podczas gdy Myślenie przez Analogię inteligentnie kopiuje rozwiązania między istniejącymi kategoriami.
 
-💾 Reprezentacja Systemowa (JSON)
+## 💾 Reprezentacja Systemowa (JSON)
 
 ```json
 {
