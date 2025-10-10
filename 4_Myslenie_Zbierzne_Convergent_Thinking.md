@@ -31,13 +31,16 @@ Aktywacja polega na dostarczeniu listy opcji oraz, co kluczowe, precyzyjnego zes
 
 ### Szablon Promptu (Wersja Zaawansowana z Ważonymi Kryteriami)
 
-ZESTAW OPCJI DO OCENY
+#### ZESTAW OPCJI DO OCENY
+
 {Wklejona lista pomysłów wygenerowana np. w fazie Myślenia Rozbieżnego.}
 
-ZADANIE
+#### ZADANIE
+
 Zastosuj Myślenie Zbieżne, aby wybrać {liczba} najlepszych opcji z powyższej listy. Twoim zadaniem jest przeprowadzenie racjonalnej i transparentnej oceny.
 
-KRYTERIA OCENY (uporządkowane wg ważności)
+#### KRYTERIA OCENY (uporządkowane wg ważności)
+
 {Nazwa Kryterium 1} (Waga: {np. 40%}): {Dokładny opis, co oznacza to kryterium}.
 
 {Nazwa Kryterium 2} (Waga: {np. 30%}): {Dokładny opis, co oznacza to kryterium}.
@@ -46,7 +49,8 @@ KRYTERIA OCENY (uporządkowane wg ważności)
 
 {Nazwa Kryterium 4} (Waga: {np. 10%}): {Dokładny opis, co oznacza to kryterium}.
 
-INSTRUKCJE WYKONANIA
+#### INSTRUKCJE WYKONANIA
+
 Oceń Każdą Opcję: Krótko przeanalizuj każdą z opcji w kontekście podanych kryteriów.
 Przedstaw Wybór: Wylistuj {liczba} najlepszych opcji.
 Uzasadnij Decyzję: Dla każdej wybranej opcji przedstaw zwięzłe uzasadnienie, odnosząc się bezpośrednio do tego, jak spełnia ona najważniejsze kryteria.
