@@ -31,19 +31,27 @@ Aktywacja polega na zleceniu AI przeprowadzenia analizy problemu kolejno z persp
 
 ### Szablon Promptu (Wersja Rozszerzona z Sugerowaną Sekwencją)
 
-TEMAT DO ANALIZY
+#### TEMAT DO ANALIZY
 {Szczegółowy opis problemu, pomysłu lub decyzji do podjęcia.}
-ZADANIE
+
+#### ZADANIE
 Zastosuj metodę Myślenia Sześcioma Kapeluszami, aby przeprowadzić pełną i uporządkowaną analizę powyższego tematu. Przeanalizuj go po kolei, ściśle trzymając się roli każdego z kapeluszy.
-INSTRUKCJE WYKONANIA (Sugerowana Sekwencja)
+
+#### INSTRUKCJE WYKONANIA (Sugerowana Sekwencja)
 Przedstaw swoją analizę w następującej kolejności:
 
 🔵 Kapelusz Niebieski (Meta-Proces): Na początku krótko zdefiniuj cel tej analizy i plan działania.
+
 ⚪️ Kapelusz Biały (Fakty i Dane): Przedstaw wyłącznie obiektywne, weryfikowalne fakty, dane, liczby i dostępne informacje dotyczące tematu. Powstrzymaj się od jakiejkolwiek interpretacji.
+
 🟢 Kapelusz Zielony (Kreatywność i Pomysły): Wygeneruj nowe, kreatywne pomysły, alternatywy i niekonwencjonalne podejścia do tematu. Nie oceniaj ich.
+
 🟡 Kapelusz Żółty (Korzyści i Optymizm): Wskaż wszystkie potencjalne korzyści, zalety, pozytywne aspekty i szanse związane z pomysłami lub tematem.
+
 ⚫️ Kapelusz Czarny (Ryzyka i Przestrogi): Zidentyfikuj wszystkie potencjalne problemy, ryzyka, słabości, zagrożenia i negatywne konsekwencje. Bądź konstruktywnym krytykiem.
+
 🔴 Kapelusz Czerwony (Emocje i Intuicja): Wyraź intuicje, przeczucia i emocjonalne reakcje (np. entuzjazm, obawa, niepokój) bez potrzeby ich racjonalnego uzasadniania.
+
 🔵 Kapelusz Niebieski (Podsumowanie i Wnioski): Na końcu podsumuj całą analizę, wskaż kluczowe wnioski i zaproponuj następne kroki.
 
 ## 🌊 Diagram Przepływu Myślowego
@@ -83,13 +91,13 @@ graph TD
         G --> H;
 
     end
-```
+
     
 
     style A fill:#E8DAEF,stroke:#333,stroke-width:4px
 
     style H fill:#D5F5E3,stroke:#333,stroke-width:2px
-
+```
 ## 🚧 Anty-wzorce i Pułapki
 Wartość tej metody leży w jej dyscyplinie. Najczęstsze błędy niszczą tę dyscyplinę:
 
