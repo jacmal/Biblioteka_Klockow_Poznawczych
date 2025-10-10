@@ -77,8 +77,8 @@ KM-001 (Łańcuch Myśli): Może być użyty do zdyscyplinowanego przeprowadzeni
 Alternatywa:
 KM-007 (Myślenie przez Analogię): To dwa przeciwstawne bieguny rozwiązywania problemów. Myślenie od Podstaw tworzy nowe kategorie, podczas gdy Myślenie przez Analogię inteligentnie kopiuje rozwiązania między istniejącymi kategoriami.
 💾 Reprezentacja Systemowa (JSON)
-<details> <summary>Pokaż kod JSON</summary>
 
+```json
 {
 
   "id": "KM-002",
@@ -116,3 +116,4 @@ KM-007 (Myślenie przez Analogię): To dwa przeciwstawne bieguny rozwiązywania 
   }
 
 }
+```
