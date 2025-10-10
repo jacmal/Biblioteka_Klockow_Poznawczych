@@ -47,22 +47,17 @@ KROK 3: Rekonstrukcja Rozwiązania. Ignorując całkowicie dotychczasowe konwenc
 Proces ten można zwizualizować jako diament – najpierw zawężamy złożony problem do jego esencji, a następnie rozszerzamy myślenie, budując na tej esencji nowe rozwiązania.
 
 ```mermaid
-
 graph TD
-
     A["Complex Problem<br>(Powszechne Rozwiązanie)"] --> B{"Krok 1:<br>Kwestionowanie Założeń"};
-
     B --> C["⚛️<br>Krok 2: Dekonstrukcja do Prawd Fundamentalnych"];
-
     C -- "Nowy, solidny fundament" --> D{"Krok 3:<br>Rekonstrukcja od Zera"};
-
     D --> E["💡<br>Innowacyjne, Nowe Rozwiązanie"];
 
     style A fill:#FADBD8,stroke:#333,stroke-width:2px
-
     style C fill:#D6EAF8,stroke:#333,stroke-width:4px
-
     style E fill:#D5F5E3,stroke:#333,stroke-width:2px
+```
+
 🚧 Anty-wzorce i Pułapki
 Myślenie od Podstaw jest potężne, ale wymaga dyscypliny, aby uniknąć typowych pułapek:
 
