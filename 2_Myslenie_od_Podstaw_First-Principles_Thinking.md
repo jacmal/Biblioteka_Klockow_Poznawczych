@@ -3,15 +3,10 @@
 ## 📇 Karta Identyfikacyjna
 
 | Cecha | Wartość |
-
 | :--- | :--- |
-
 | **ID** | KM-002 |
-
 | **Alias** | Dekonstrukcja, Myślenie od Zera |
-
 | **Typ** | Wzorzec Analityczno-Kreatywny (Analytical-Creative Pattern) |
-
 | **Główne Zadanie** | Odkrywanie fundamentalnych prawd i budowanie innowacji |
 
 ## 💡 Opis Koncepcyjny
