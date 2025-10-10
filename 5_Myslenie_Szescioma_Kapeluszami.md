@@ -116,6 +116,7 @@ Czy jestem gotów zdyscyplinowanie podążać za tą strukturą? Sukces metody z
 
 #### Synergia:
 KM-003 (Myślenie Rozbieżne): Sesja w 🟢 Zielonym Kapeluszu to idealny moment na zastosowanie pełnej mocy Myślenia Rozbieżnego.
+
 KM-004 (Myślenie Zbieżne): Informacje zebrane pod 🟡 Żółtym Kapeluszem (korzyści) i ⚫️ Czarnym Kapeluszem (ryzyka) stanowią doskonały materiał do zdefiniowania kryteriów dla późniejszego Myślenia Zbieżnego.
 
 #### Alternatywa:
