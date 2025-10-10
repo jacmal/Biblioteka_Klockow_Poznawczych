@@ -1,10 +1,3 @@
-Rozpoczynamy. Zgodnie z ustaleniami, bierzemy na warsztat pierwszy klocek i tworzymy jego kompletną, wzbogaconą wersję.
-
-Oto **Biblioteka Klocków Koncepcyjnych, Tom 1, Rozdział 1**.
-
------
-
-
 # 🧩 Klocek Koncepcyjny #1: Łańcuch Myśli (Chain-of-Thought)
 
 ## 📇 Karta Identyfikacyjna
