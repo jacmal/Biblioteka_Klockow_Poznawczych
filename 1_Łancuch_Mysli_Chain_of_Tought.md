@@ -4,7 +4,7 @@ Oto **Biblioteka Klocków Koncepcyjnych, Tom 1, Rozdział 1**.
 
 -----
 
-```markdown
+
 # 🧩 Klocek Koncepcyjny #1: Łańcuch Myśli (Chain-of-Thought)
 
 ## 📇 Karta Identyfikacyjna
@@ -34,8 +34,6 @@ Aktywacja polega na jawnym zażądaniu od modelu, aby przedstawił swój proces 
 
 ### Szablon Promptu (Wersja Rozszerzona)
 
-```
-
 ### PROBLEM DO ROZWIĄZANIA
 
 {Szczegółowy opis problemu, zawierający wszystkie niezbędne dane.}
@@ -49,10 +47,6 @@ Twoim zadaniem jest rozwiązanie powyższego problemu, stosując metodę Łańcu
 1.  **Myśl Krok po Kroku:** Przedstaw swoje rozumowanie w logicznej sekwencji. Używaj nagłówków lub punktów, aby oddzielić poszczególne etapy.
 2.  **Uzasadniaj swoje działania:** Tłumacz, dlaczego wykonujesz dany krok i na jakiej podstawie wyciągasz wnioski.
 3.  **Oddziel Odpowiedź:** Po zakończeniu pełnej analizy, wyraźnie oznacz sekcję "OSTATECZNA ODPOWIEDŹ" i przedstaw w niej finalny, zwięzły wynik.
-
-<!-- end list -->
-
-````
 
 ## 🌊 Diagram Przepływu Myślowego
 
