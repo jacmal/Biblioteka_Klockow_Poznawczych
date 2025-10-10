@@ -33,12 +33,15 @@ Aktywacja tego wzorca polega na zleceniu modelowi zdyscyplinowanego, trzyetapowe
 
 PROBLEM DO PRZEANALIZOWANIA
 {Szczegółowy opis problemu lub istniejącego rozwiązania, które chcemy zakwestionować.}
+
 ZADANIE
 Zastosuj do tego problemu metodę Myślenia od Podstaw. Twoim celem jest zbudowanie nowego, innowacyjnego rozwiązania od zera, opierając się wyłącznie na fundamentalnych prawdach.
+
 INSTRUKCJE WYKONANIA
 Postępuj ściśle według następujących kroków:
 
 KROK 1: Identyfikacja i Kwestionowanie Założeń. Wypisz wszystkie powszechne, często niewypowiedziane założenia, które leżą u podstaw obecnego podejścia do tego problemu. Następnie bezlitośnie zakwestionuj każde z nich.
+
 KROK 2: Dekonstrukcja do Pierwszych Zasad. Rozłóż problem na jego najbardziej fundamentalne, niepodważalne elementy. Mogą to być prawa fizyki, podstawowe potrzeby ludzkie, definicje matematyczne lub aksjomaty logiczne. To są Twoje "klocki lego".
 KROK 3: Rekonstrukcja Rozwiązania. Ignorując całkowicie dotychczasowe konwencje, zacznij od nowa budować rozwiązanie, używając wyłącznie zidentyfikowanych w Kroku 2 pierwszych zasad. Bądź kreatywny i odważny w swoich propozycjach.
 
@@ -62,20 +65,27 @@ graph TD
 Myślenie od Podstaw jest potężne, ale wymaga dyscypliny, aby uniknąć typowych pułapek:
 
 Paraliż przez Analizę: Ugrzęźnięcie w fazie dekonstrukcji. Niekończące się rozkładanie problemu na coraz mniejsze części bez przejścia do kluczowej fazy rekonstrukcji.
+
 Ignorowanie Rzeczywistości: Stworzenie teoretycznie genialnego rozwiązania, które jednak ignoruje kluczowe ograniczenia praktyczne (ekonomiczne, prawne, technologiczne, społeczne). Pierwsze zasady nie oznaczają braku jakichkolwiek ograniczeń.
+
 Błędne Fundamenty: Oparcie całej rekonstrukcji na "fundamentalnej prawdzie", która w rzeczywistości jest nieprawdziwa lub niekompletna. Wytrzymałość budynku zależy od solidności jego fundamentów.
+
 ✅ Pytania Kontrolne Architekta
 Zanim zdecydujesz się na tę metodę, odpowiedz sobie na te pytania:
 
 Czy naprawdę zidentyfikowałem wszystkie kluczowe założenia? Czy sięgnąłem głębiej niż tylko do tych najbardziej oczywistych, powierzchownych przekonań?
 Czy moje "pierwsze zasady" są naprawdę niepodważalne? Czy potrafię je obronić jako fundamentalne prawdy, czy są to po prostu mniej popularne, ale wciąż tylko założenia?
 Czy jestem gotów odrzucić obecne rozwiązanie w całości? Ta metoda wymaga intelektualnej odwagi, by zacząć od pustej kartki, co nie zawsze jest konieczne lub pożądane.
+
 🔗 Relacje i Kombinacje
+
 Synergia:
 KM-003 (Myślenie Rozbieżne): Faza rekonstrukcji to w istocie zastosowanie Myślenia Rozbieżnego na nowym, solidnym fundamencie zbudowanym z pierwszych zasad.
 KM-001 (Łańcuch Myśli): Może być użyty do zdyscyplinowanego przeprowadzenia samego procesu dekonstrukcji, krok po kroku.
+
 Alternatywa:
 KM-007 (Myślenie przez Analogię): To dwa przeciwstawne bieguny rozwiązywania problemów. Myślenie od Podstaw tworzy nowe kategorie, podczas gdy Myślenie przez Analogię inteligentnie kopiuje rozwiązania między istniejącymi kategoriami.
+
 💾 Reprezentacja Systemowa (JSON)
 
 ```json
