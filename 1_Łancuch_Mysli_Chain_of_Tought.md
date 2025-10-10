@@ -112,12 +112,3 @@ Zanim zastosujesz ten klocek, zadaj sobie następujące pytania:
   }
 }
 ```
-
-\</details\>
-
-```
----
-Pierwszy klocek został przetworzony. Mamy teraz kompletny, samodzielny dokument opisujący wzorzec **Łańcucha Myśli**.
-
-**Gotowy na kolejny klocek, KM-002: Myślenie od Podstaw?**
-```
