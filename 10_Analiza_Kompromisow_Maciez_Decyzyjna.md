@@ -1,4 +1,4 @@
-# 🧩 Klocek Koncepcyjny #10: Analiza Kompromisów (Macierz Decyzyjna) [MD]
+# 🧩 Klocek Koncepcyjny #10: Analiza Kompromisów (Macierz Decyzyjna)
 
 ## 📇 Karta Identyfikacyjna
 
